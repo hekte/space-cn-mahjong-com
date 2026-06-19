@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hekte.github.io/space-cn-mahjong-com/sitemap.xml
